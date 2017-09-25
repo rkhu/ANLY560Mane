@@ -1,1 +1,1 @@
-# This is repo for ANLY 560 - Fall 2017!
+# This is a repository for ANLY 560 - Fall 2017!
